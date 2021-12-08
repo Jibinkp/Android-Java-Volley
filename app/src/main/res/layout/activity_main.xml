@@ -17,6 +17,7 @@
             android:layout_height="50dp"
             android:hint="IP Address"
             android:gravity="center"
+
             android:layout_gravity="center"
             android:background="@drawable/curved_edit_text"/>
         <Button
